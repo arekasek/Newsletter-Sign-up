@@ -76,7 +76,7 @@ body {
 }
 
 .container-list li {
-  background-image: url("/assets/images/icon-list.svg");
+  background-image: URL("../Newsletter-Sign-up/assets/images/icon-list.svg");
   background-repeat: no-repeat;
   background-position: 5px;
   padding-left: 2.5rem;
